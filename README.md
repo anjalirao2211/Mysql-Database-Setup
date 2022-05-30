@@ -1,5 +1,4 @@
 # Mysql-Database-Setup
-# Mysql-Setup
 
 # Use below commands to setup Mysql Database
     wget https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm
